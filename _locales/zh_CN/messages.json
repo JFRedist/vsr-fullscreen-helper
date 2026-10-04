@@ -1,0 +1,6 @@
+{
+  "extName": { "message": "VSR Fullscreen Helper" },
+  "extDescription": { "message": "让 <video> 单独全屏并诊断阻止覆盖层的因素，帮助 NVIDIA RTX 视频超分（VSR）在更多网站上生效。" },
+  "cmdToggle": { "message": "（备用）切换当前播放视频的全屏" },
+  "cmdDiagnose": { "message": "（备用）把覆盖层诊断输出到控制台" }
+}

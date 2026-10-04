@@ -1,0 +1,6 @@
+{
+  "extName": { "message": "VSR Fullscreen Helper" },
+  "extDescription": { "message": "Fullscreen just the <video> and diagnose what blocks overlay promotion, so NVIDIA RTX Video Super Resolution can activate." },
+  "cmdToggle": { "message": "(Fallback) Toggle fullscreen on the playing video" },
+  "cmdDiagnose": { "message": "(Fallback) Print overlay diagnostics to the console" }
+}
