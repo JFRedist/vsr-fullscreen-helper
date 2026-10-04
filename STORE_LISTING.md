@@ -26,7 +26,7 @@ No network requests, no remote code, no analytics, no data collected or stored. 
 
 Requires an NVIDIA RTX GPU with VSR enabled in the NVIDIA App or Control Panel. It cannot help on sites that render video to a canvas. Not affiliated with NVIDIA or Google; NVIDIA and RTX are trademarks of NVIDIA Corporation.
 
-Source code: <GITHUB URL>
+Source code: https://github.com/JFRedist/vsr-fullscreen-helper
 
 ## Single purpose
 Fullscreen the playing video element on its own, with diagnostics, so that RTX Video Super Resolution can activate on sites where page elements prevent it.
@@ -37,7 +37,7 @@ Fullscreen the playing video element on its own, with diagnostics, so that RTX V
 - **Remote code**: none. **Data usage**: none collected; certify all data-usage boxes as "no".
 
 ## Privacy policy URL
-<GITHUB URL>/blob/main/PRIVACY.md
+https://github.com/JFRedist/vsr-fullscreen-helper/blob/main/PRIVACY.md
 
 ## Still needed before submission (manual)
 - Chrome Web Store developer account (one-time US$5 fee).

@@ -85,6 +85,10 @@ node tools/make-icons.js   # regenerate icons/
 node tools/pack.js         # build dist/vsr-fullscreen-helper-<version>.zip for the Chrome Web Store
 ```
 
+## AI assistance
+
+This project was developed with the assistance of Claude (Anthropic).
+
 ## Disclaimer
 
 Not affiliated with or endorsed by NVIDIA or Google. NVIDIA and RTX are trademarks of NVIDIA Corporation.

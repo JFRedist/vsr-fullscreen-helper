@@ -85,6 +85,10 @@ node tools/make-icons.js   # 重新生成 icons/
 node tools/pack.js         # 生成 dist/vsr-fullscreen-helper-<version>.zip，用于上传 Chrome 应用商店
 ```
 
+## AI 辅助
+
+本项目在 Claude（Anthropic）的辅助下开发。
+
 ## 声明
 
 与 NVIDIA、Google 无关联，也未获其认可。NVIDIA 和 RTX 是 NVIDIA Corporation 的商标。
